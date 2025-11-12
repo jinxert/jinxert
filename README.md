@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding obv
 - 🌱 I’m currently learning HTML!!
 - 😄 Pronouns: alpha male lol
-- ⚡ Fun fact: my can in the highlands has a funny habit of eating very hot food when it is thrown at it, weird huh?
+- ⚡ Fun fact: my ushago cat has a funny habit of eating very hot food when it is thrown at it, weird huh?
 
 <!---
 jinxert/jinxert is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
